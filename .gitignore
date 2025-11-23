@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# Menambahkan bin/obj/dan*cbp
+
+bin/
+obj/
+*.cbp
